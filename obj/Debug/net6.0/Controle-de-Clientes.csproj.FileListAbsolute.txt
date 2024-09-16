@@ -1,0 +1,15 @@
+C:\Users\flavi\OneDrive\Área de Trabalho\Controle-de-Clientes\bin\Debug\net6.0\Controle-de-Clientes.exe
+C:\Users\flavi\OneDrive\Área de Trabalho\Controle-de-Clientes\bin\Debug\net6.0\Controle-de-Clientes.deps.json
+C:\Users\flavi\OneDrive\Área de Trabalho\Controle-de-Clientes\bin\Debug\net6.0\Controle-de-Clientes.runtimeconfig.json
+C:\Users\flavi\OneDrive\Área de Trabalho\Controle-de-Clientes\bin\Debug\net6.0\Controle-de-Clientes.dll
+C:\Users\flavi\OneDrive\Área de Trabalho\Controle-de-Clientes\bin\Debug\net6.0\Controle-de-Clientes.pdb
+C:\Users\flavi\OneDrive\Área de Trabalho\Controle-de-Clientes\obj\Debug\net6.0\Controle-de-Clientes.csproj.AssemblyReference.cache
+C:\Users\flavi\OneDrive\Área de Trabalho\Controle-de-Clientes\obj\Debug\net6.0\Controle-de-Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\OneDrive\Área de Trabalho\Controle-de-Clientes\obj\Debug\net6.0\Controle-de-Clientes.AssemblyInfoInputs.cache
+C:\Users\flavi\OneDrive\Área de Trabalho\Controle-de-Clientes\obj\Debug\net6.0\Controle-de-Clientes.AssemblyInfo.cs
+C:\Users\flavi\OneDrive\Área de Trabalho\Controle-de-Clientes\obj\Debug\net6.0\Controle-de-Clientes.csproj.CoreCompileInputs.cache
+C:\Users\flavi\OneDrive\Área de Trabalho\Controle-de-Clientes\obj\Debug\net6.0\Controle-de-Clientes.dll
+C:\Users\flavi\OneDrive\Área de Trabalho\Controle-de-Clientes\obj\Debug\net6.0\refint\Controle-de-Clientes.dll
+C:\Users\flavi\OneDrive\Área de Trabalho\Controle-de-Clientes\obj\Debug\net6.0\Controle-de-Clientes.pdb
+C:\Users\flavi\OneDrive\Área de Trabalho\Controle-de-Clientes\obj\Debug\net6.0\Controle-de-Clientes.genruntimeconfig.cache
+C:\Users\flavi\OneDrive\Área de Trabalho\Controle-de-Clientes\obj\Debug\net6.0\ref\Controle-de-Clientes.dll
